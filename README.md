@@ -37,7 +37,7 @@ npm install
 
 ### Execution:
 
-    After installing the dependencies, you can run the application using the following command:
+After installing the dependencies, you can run the application using the following command:
 
 ```bash
 yarn start <args>

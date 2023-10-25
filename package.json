@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Gottfried Kleinberger <friedi.frieds@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node card-counter.js"
+  },
   "dependencies": {
     "commander": "^11.1.0"
   }

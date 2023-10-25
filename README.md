@@ -15,35 +15,35 @@ To use the Receiving Card Counter CLI, follow these steps:
 
     ```bash
     git clone https://github.com/deuxp/receiving-card-counter.git
-
-     Installation:
-         Once downloaded, navigate to the project directory.
-         You can install the necessary dependencies using either yarn or npm.
-
-     Using Yarn:
-
-     bash
     ```
 
+1. Installation:
+   Once downloaded, navigate to the project directory.
+   You can install the necessary dependencies using either yarn or npm.
+
+### Using Yarn:
+
+```bash
 cd receiving-card-counter
 yarn install
+```
 
-Or using npm:
+### Or using npm:
 
-bash
-
+```bash
 cd receiving-card-counter
 npm install
+```
 
-Execution:
+### Execution:
 
     After installing the dependencies, you can run the application using the following command:
 
-bash
+```bash
+yarn start <args>
+```
 
-    npm start
-
-Contributing
+### Contributing
 
 If you find any bugs, have suggestions or improvements, feel free to open an issue or create a pull request on the GitHub repository.
 License

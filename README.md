@@ -44,6 +44,10 @@ After installing the dependencies, you can run the application using the followi
 yarn start <args>
 ```
 
+### Dependencies
+
+[Commander.js](https://www.npmjs.com/package/commander)
+
 ### Contributing
 
 If you find any bugs, have suggestions or improvements, feel free to open an issue or create a pull request on the GitHub repository.
